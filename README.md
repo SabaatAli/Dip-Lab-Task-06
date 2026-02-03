@@ -14,7 +14,8 @@ Low-Frequency Extraction: This captures the smooth areas and overall structure o
 
 High-Frequency Extraction: This identifies sharp transitions, edges, and fine details. It is typically derived by subtracting the low-frequency component from the original image.
 
-# Visualization: The results are displayed in a side-by-side comparison using plt.subplot, allowing for a clear visual distinction between the original image, its low-frequency version, and its high-frequency (edge-dominant) version.
+# Visualization:
+The results are displayed in a side-by-side comparison using plt.subplot, allowing for a clear visual distinction between the original image, its low-frequency version, and its high-frequency (edge-dominant) version.
 
 # 3. Key Code Logic
 The following logic is central to the task's operation:
